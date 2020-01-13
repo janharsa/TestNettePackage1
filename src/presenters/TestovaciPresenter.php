@@ -12,6 +12,6 @@ class TestovaciPresenter extends Presenter
     public function renderDefault(): void
     {
         $this->template->anyVariable = 'any value';
-        $this->template->test = 'test1';
+        $this->template->test = 'test2';
     }
 }
