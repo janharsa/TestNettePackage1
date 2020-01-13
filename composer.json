@@ -3,6 +3,7 @@
     "require": {
         "nette/nette": "^3.0"
     },
+	"minimum-stability": "stable",
     "autoload": {
         "classmap": [
             "src/"
