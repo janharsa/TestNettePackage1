@@ -1,7 +1,8 @@
 {
-    "name": "jhars/test-nette-package1",
+    "name": "jhars/test-nette-package-one",
+    "license": "MIT",
     "require": {
-        "nette/nette": "^3.0"
+        "nette/nette": "^3.0",
     },
 	"minimum-stability": "stable",
     "autoload": {
