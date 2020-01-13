@@ -1,0 +1,11 @@
+{
+    "name": "jhars/test-nette-package1",
+    "require": {
+        "nette/nette": "^3.0"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
