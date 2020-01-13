@@ -5,7 +5,9 @@ declare(strict_types=1);
 namespace App\Presenters;
 
 
-final class TestovaciPresenter extends Nette\Application\UI\Presenter
+use Nette\Application\UI\Presenter;
+
+class TestovaciPresenter extends Presenter
 {
     public function renderDefault(): void
     {
